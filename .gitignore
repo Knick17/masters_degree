@@ -1,8 +1,6 @@
 # Logs in any directory
 *.log
 *.log.*
-logs/
-
 # LaTeX build files
 *.aux
 *.fdb_latexmk
