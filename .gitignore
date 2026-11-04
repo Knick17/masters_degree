@@ -1,0 +1,25 @@
+# Logs in any directory
+*.log
+*.log.*
+logs/
+
+# LaTeX build files
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.dvi
+*.synctex*
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+.texbuild/
+
+# macOS metadata
+.DS_Store
